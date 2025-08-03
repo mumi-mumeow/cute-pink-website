@@ -5,7 +5,9 @@ Created with basic HTML and CSS — perfect for beginners or anyone who loves cu
 
 👉 **Live demo:** [mumi-mumeow.github.io/cute-pink-website](https://mumi-mumeow.github.io/cute-pink-website/)
 
+## 🖼️ Preview
 
+![Website preview](preview.png)
 
 ---
 
